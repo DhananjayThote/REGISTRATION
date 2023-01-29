@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "Dhananjay.thote",
+      "Name": "Dhananjay Thote",
+      "password": "dhanu@123",
+      "email": "dhananjay.thote172@gmail.com",
+      "phone": "08483061702",
+      "country": "",
+      "address": "Pune",
+      "gender": "male"
+    },
+    {
+      "id": "Dhananjay123",
+      "Name": "Dhananjay Thote",
+      "password": "dhanu@123",
+      "email": "dhananjay.thote172@gmail.com",
+      "phone": "08483061702",
+      "country": "",
+      "address": "Pune",
+      "gender": "male"
+    },
+    {
+      "id": "K4r9JXq",
+      "Name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "address": "",
+      "gender": "male"
+    }
+  ]
+}
