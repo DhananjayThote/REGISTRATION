@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "dhanu",
+      "Name": "Dhananjay Thote",
+      "password": "1234",
+      "email": "dhananjay.thote172@gmail.com",
+      "phone": "08483061702",
+      "country": "",
+      "address": "Pune",
+      "gender": "male"
+    }
+  ]
+}
